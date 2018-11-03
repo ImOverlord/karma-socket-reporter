@@ -1,0 +1,29 @@
+{
+  "name": "karma-socket-reporter",
+  "version": "1.0.0",
+  "description": "A Karma Socket Reporter",
+  "main": "./src/reporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImOverlord/karma-socket-reporter.git"
+  },
+  "keywords": [
+    "karma",
+    "socket",
+    "reporter"
+  ],
+  "author": "ImOverlord",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImOverlord/karma-socket-reporter/issues"
+  },
+  "homepage": "https://github.com/ImOverlord/karma-socket-reporter#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^6.0.0"
+  }
+}
