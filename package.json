@@ -1,10 +1,10 @@
 {
   "name": "karma-socket-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Karma Socket Reporter",
   "main": "./src/reporter.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --exit ./src/__tests__/*.spec.js"
   },
   "repository": {
     "type": "git",
